@@ -4,8 +4,7 @@
 
 - This repo contains example code to handle read excel files for automation testing
   using [Apache POI](https://poi.apache.org/) library.
-- It contains a demo example to pass test data to registration workflow on [PracticeSoftwareTesting.com]
-  (https://practicesoftwaretesting.com/auth/register)
+- It contains a demo example to pass test data to registration workflow on [PracticeSoftwareTesting.com](https://practicesoftwaretesting.com/auth/register)
 - Selenium WebDriver is used for Web automation testing and TestNG is used as Test runner.
 
 ## 🧬 Need Assistance?
