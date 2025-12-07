@@ -14,7 +14,7 @@ import io.github.mfaisalkhatri.pages.RegistrationPage;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-public class RegistrationTestWithRecord  extends BaseTest{
+public class TestRegistrationWithRecord extends BaseTest{
 
     @DataProvider
     public Iterator<Object[]> getRegistrationData () {
