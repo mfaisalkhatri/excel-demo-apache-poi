@@ -39,5 +39,5 @@ public class RegistrationTest extends BaseTest {
 
         assertEquals (registrationPage.passwordAlertMessage (),
             "The given password has appeared in a data leak. Please choose a different password.");
-    }
+     }
 }
